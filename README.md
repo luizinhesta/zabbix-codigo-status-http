@@ -125,7 +125,7 @@ Este repositório acompanha videoaula demonstrando:
 
 ## 🌐 Minhas redes
 
-- 📺 **YouTube:** `COLE_AQUI_O_LINK_DO_CANAL` (ex.: https://www.youtube.com/@SEU_CANAL)
+- 📺 **YouTube:** `https://youtu.be/uBxlQj4nvjg` 
 - 💼 **LinkedIn:** `https://www.linkedin.com/in/luiz-inhesta-341b4b311/` 
 
 ---
