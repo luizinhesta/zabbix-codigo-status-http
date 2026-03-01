@@ -1,0 +1,1 @@
+# zabbix-codigo-status-http
